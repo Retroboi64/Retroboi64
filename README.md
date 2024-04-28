@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I'm currently making a game engine and a game.
+- 🌱 I'm currently making rust programs.
 
 
 Thanks for stoping by
