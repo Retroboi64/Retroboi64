@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **Python, Rust And C#**
+- 💬 Ask me about **Python, Rust, C++ And C#**
 
 - 📫 How to reach me **DM On Discord Retroboi64**
 
