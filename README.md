@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [](https://github.com/Retroboi64/)
 
-- 🌱 I’m currently learning **Web Development**
-
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
 - 💬 Ask me about **Rust, C++ And C#**
