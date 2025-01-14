@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retroboi64&label=Profile%20views&color=0e75b6&style=flat" alt="retroboi64" /> </p>
 
-- 🔭 I’m currently working on Project32)
+- 🔭 I’m currently working on Project32
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
