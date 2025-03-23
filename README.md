@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Retroboi64</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">About me:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=retroboi64&label=Profile%20views&color=0e75b6&style=flat" alt="retroboi64" /> </p>
+<ul align="center">
+  <li>🔭 I’m currently working on <strong>Project32</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/retroboi64">GitHub</a></li>
+  <li>💬 Ask me about <strong>Rust</strong> and <strong>C++</strong></li>
+  <li>📫 How to reach me: <strong>DM on Discord - Retroboi64</strong></li>
+</ul>
 
-- 🔭 I’m currently working on Project32
+<h3 align="center">Stats</h1>
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
-
-- 💬 Ask me about **Rust and C++**
-
-- 📫 How to reach me **DM On Discord Retroboi64**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/retroboi64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="retroboi64" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/uQSdb3nHCd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uQSdb3nHCd" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=retroboi64&theme=gruvbox&hide_border=true" alt="GitHub Streak Stats">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=retroboi64&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=retroboi64&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=retroboi64&theme=gruvbox&hide_border=true)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.youtube.com/c/retroboi64" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/uQSdb3nHCd" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
