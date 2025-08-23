@@ -11,7 +11,6 @@
 <h3 align="center">Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=retroboi64&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retroboi64&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Github Stats">
 </p>
 
