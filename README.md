@@ -6,11 +6,6 @@
   🔭 Working on <strong><a href="https://github.com/retroboi64/Project32">Project32</a></strong>
 </p>
 
-<h3 align="center">📊 Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retroboi64&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats">
-</p>
-
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
   <a href="https://www.youtube.com/retroboi64" target="_blank">
