@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/retroboi64" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/uQSdb3nHCd" target="_blank">
+  <a href="https://discord.gg/GGa48TJFgk" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
